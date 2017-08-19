@@ -12,17 +12,17 @@ github_repo: "https://github.com/olivia122/olivia122.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     olivia122
-zhihu_username:     
+weibo_username:     olivia122
+#zhihu_username:     
 github_username:    olivia122
-facebook_username:  
-jianshu_username:   
+#facebook_username:  
+#jianshu_username:   
 #twitter_username:   
 
 
